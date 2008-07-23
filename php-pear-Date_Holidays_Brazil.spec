@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - Driver based class to calculate holidays in Brazil
 Summary(pl.UTF-8):	%{_pearname} - klasa do obliczania świąt brazylijskich
 Name:		php-pear-%{_pearname}
-Version:	0.1.0
+Version:	0.1.1
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	0711e41598110a3010dd0dc6b658f2d7
+# Source0-md5:	a3b9d6fbdcb3299bda05146f83156f7b
 URL:		http://pear.php.net/package/Date_Holidays_Brazil/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
